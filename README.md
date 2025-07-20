@@ -1,21 +1,17 @@
-# 📚 Library Management System (Tkinter Version)
+**Library Management System (Tkinter Version)**
+A desktop-based Library Management System built using Python, Tkinter, and solid Object-Oriented Programming (OOP) principles.
 
-This is a desktop-based Library Management System built using **Python, Tkinter**, and **Object-Oriented Programming (OOP)** principles.
+**Features**
+Here’s your feature list as clean bullet points:
 
-## ✅ Features
+• Add, remove, lend, and return books
+• Search books by author using generator functions
+• Support for eBooks with file size tracking
+• Interface built with Tkinter for easy interaction
+• Custom exceptions and iterators to keep logic organized
+• Modular, well-structured codebase
+• File size input is only active when "eBook" is selected and accepts numeric input only
 
-- Add, remove, lend, and return books
-- Search books by author (using generators)
-- eBook support with download size
-- GUI built using Tkinter
-- Custom exceptions and iterators
-- Fully modular and clean architecture
-- Download size field is disabled unless "eBook" is checked and accepts only numeric input
-
-## 🛠 Technologies Used
-
-- Python 3.x
-- Tkinter (built-in GUI library)
-
-## 📁 Project Structure
-
+**Technologies Used**
+• Python 3.x
+• Tkinter (Python’s built-in GUI toolkit)
